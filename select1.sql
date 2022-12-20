@@ -65,4 +65,3 @@ where
     
 select * from student_study_mst;
 
-
